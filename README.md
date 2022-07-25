@@ -1,5 +1,8 @@
 # Getting Started
 
+https://blogs.sap.com/2020/07/04/cap-using-hana-db-sequence/
+
+
 Welcome to your new project.
 
 It contains these folders and files, following our recommended project layout:
